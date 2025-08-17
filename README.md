@@ -53,5 +53,4 @@ AparelhoTelefonico.java - Interface para funcionalidades telefônicas
 NavegadorInternet.java - Interface para navegação web
 iPhone.java - Classe que implementa todas as interfaces
 Main.java - Classe principal com método main
-TesteiPhone.java - Classe de teste alternativa (opcional)
-
+TesteiPhone.java - Classe de teste
