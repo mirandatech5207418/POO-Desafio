@@ -55,7 +55,6 @@ iPhone.java - Classe que implementa todas as interfaces
 Main.java - Classe principal com método main
 TesteiPhone.java - Classe de teste
 
-
 classDiagram
     class ReprodutorMusical {
         <<interface>>
